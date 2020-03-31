@@ -1,12 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="86593246-4743-43b3-9d59-99db67030f79" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZtuNK5iWW8naGl6eWPJrSpD1f5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="reference.settings.deploy.options" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86593246-4743-43b3-9d59-99db67030f79" name="Default Changelist" comment="" />
+      <created>1585670669054</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585670669054</updated>
+      <workItem from="1585670670642" duration="479000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="282" y="61" width="1243" height="800" key="CommitChangelistDialog2" timestamp="1585671241824">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state x="282" y="61" width="1243" height="800" key="CommitChangelistDialog2/0.23.1600.877@0.23.1600.877" timestamp="1585671241824" />
+    <state x="264" y="99" key="DiffContextDialog" timestamp="1585671239029">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state x="264" y="99" key="DiffContextDialog/0.23.1600.877@0.23.1600.877" timestamp="1585671239029" />
+    <state width="1579" height="231" key="GridCell.Tab.0.bottom" timestamp="1585670807241">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state width="1579" height="231" key="GridCell.Tab.0.bottom/0.23.1600.877@0.23.1600.877" timestamp="1585670807241" />
+    <state width="1579" height="231" key="GridCell.Tab.0.center" timestamp="1585670807240">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state width="1579" height="231" key="GridCell.Tab.0.center/0.23.1600.877@0.23.1600.877" timestamp="1585670807240" />
+    <state width="1579" height="231" key="GridCell.Tab.0.left" timestamp="1585670807240">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state width="1579" height="231" key="GridCell.Tab.0.left/0.23.1600.877@0.23.1600.877" timestamp="1585670807240" />
+    <state width="1579" height="231" key="GridCell.Tab.0.right" timestamp="1585670807241">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state width="1579" height="231" key="GridCell.Tab.0.right/0.23.1600.877@0.23.1600.877" timestamp="1585670807241" />
   </component>
 </project>
